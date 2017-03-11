@@ -1,0 +1,25 @@
+{
+  "name": "saversapi",
+  "version": "1.0.0",
+  "description": "Savers API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brugambwa/SaversAPI.git"
+  },
+  "author": "Bobson Rugambwa <brugambw@andrew.cmu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brugambwa/SaversAPI/issues"
+  },
+  "homepage": "https://github.com/brugambwa/SaversAPI#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
